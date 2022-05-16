@@ -1,1 +1,2 @@
 # challenge-6
+An interactive weather application which brings real time weather information for any city directly to our users fingertips. Just enter your city of choice and click search to view a five day forecast as well as a current conditions, including temperature, wind speed and direction, humidity, and a color coded UV index rating.  
